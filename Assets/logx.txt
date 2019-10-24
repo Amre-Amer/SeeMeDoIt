@@ -1,0 +1,78 @@
+Role sender
+GameType Sculpt
+.
+.
+.
+.
+Role sender
+GameType Sculpt
+.
+Mode play
+.
+.
+.
+.
+.
+.
+.
+Advance...
+GameType Pong
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+Advance...
+GameType Noise
+Sending keyValue|AddNoise:Woofer@56.22514
+Sending keyValue|AddNoise:Woofer@56.22514
+Sending keyValue|AddNoise:Woofer@56.22514
+.
+Sending keyValue|AddNoise:Woofer@56.22514
+Sending keyValue|AddNoise:Woofer@56.22514
+Sending keyValue|AddNoise:Woofer@56.22514
+Sending keyValue|AddNoise:Tweeter@57.0874
+Sending keyValue|AddNoise:Tweeter@57.0874
+Sending keyValue|AddNoise:Tweeter@57.0874*keyValue|AddNoise:Midrange@57.1405
+Sending keyValue|AddNoise:Tweeter@57.0874*keyValue|AddNoise:Midrange@57.1405
+Sending keyValue|AddNoise:Tweeter@57.0874*keyValue|AddNoise:Midrange@57.1405
+Sending keyValue|AddNoise:Tweeter@57.0874*keyValue|AddNoise:Midrange@57.1405
+.
+Sending keyValue|AddNoise:Midrange@57.1405*keyValue|AddNoise:Tweeter@57.2618
+Sending keyValue|AddNoise:Midrange@57.1405*keyValue|AddNoise:Tweeter@57.2618
+Sending keyValue|AddNoise:Tweeter@57.2618
+Sending keyValue|AddNoise:Tweeter@57.2618
+Sending keyValue|AddNoise:Tweeter@57.2618
+Sending keyValue|AddNoise:Tweeter@57.2618
+Sending keyValue|AddNoise:Woofer@57.55278
+Sending keyValue|AddNoise:Woofer@57.55278
+Sending keyValue|AddNoise:Woofer@57.55278
+Sending keyValue|AddNoise:Woofer@57.55278
+Sending keyValue|AddNoise:Woofer@57.55278
+Sending keyValue|AddNoise:Woofer@57.55278
+Sending keyValue|AddNoise:Woofer@58.10875
+Sending keyValue|AddNoise:Woofer@58.10875
+Sending keyValue|AddNoise:Woofer@58.10875
+Sending keyValue|AddNoise:Woofer@58.10875
+Sending keyValue|AddNoise:Woofer@58.10875
+.
+Sending keyValue|AddNoise:Woofer@58.10875
+.
+------------------------------------------
+SeeMeDoIt 2.0 me@amre-amer.com
+Role sender
+GameType Sculpt
+.
+.
+.
+.
